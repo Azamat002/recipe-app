@@ -42,7 +42,8 @@ function Veggie() {
                         drag: 'free',
                         keyboard: 'global',
                         gap: '5rem',
-                        autoplay:true
+                        autoplay: true,
+                        type: 'loop'
                     }
                 }>
                     {veggie.map((recipe) => {
@@ -52,8 +53,8 @@ function Veggie() {
                                 <Card key={recipe.id}>
                                     <Link to={"/recipe/" + recipe.id}>
 
-                                    <p>{recipe.title}</p>
-                                    <img src={recipe.image} alt={recipe.title}/>
+                                        <p>{recipe.title}</p>
+                                        <img src={recipe.image} alt={recipe.title}/>
 
                                     </Link></Card>
                                 <Gradient/>

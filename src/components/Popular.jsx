@@ -42,8 +42,7 @@ function Popular() {
                         drag: 'free',
                         keyboard: 'global',
                         gap: '5rem',
-                        autoplay: true,
-                        type: 'loop'
+
                     }
                 }>
                     {popular.map((recipe) => {
