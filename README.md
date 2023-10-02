@@ -1,5 +1,13 @@
 # Screenshot:
+
+### Home page:
 ![delicious](https://github.com/Azamat002/recipe-app/assets/80198432/926a2cf5-67e4-4c63-bb43-74aafe563fa1)
+
+### Info page for each food:
+![Uploading info-page.png…]()
+
+### Cuisine's page:
+![Uploading Thai-page.png…]()
 
 
 # Getting Started with Create React App
