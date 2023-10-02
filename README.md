@@ -6,7 +6,7 @@
 ### Info page for each food:
 ![Uploading info-page.png…]()
 
-### Cuisine's page:
+### Pages for each cuisine:
 ![Uploading Thai-page.png…]()
 
 
