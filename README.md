@@ -4,10 +4,10 @@
 ![delicious](https://github.com/Azamat002/recipe-app/assets/80198432/926a2cf5-67e4-4c63-bb43-74aafe563fa1)
 
 ### Info page for each food:
-![Uploading info-page.png…]()
+![info-page](https://github.com/Azamat002/recipe-app/assets/80198432/5276c9f5-b613-46e1-87b7-1480c2c5c34b)
 
 ### Pages for each cuisine:
-![Uploading Thai-page.png…]()
+![Thai-page](https://github.com/Azamat002/recipe-app/assets/80198432/1728ec39-9351-4764-94a0-43d080c9192f)
 
 
 # Getting Started with Create React App
