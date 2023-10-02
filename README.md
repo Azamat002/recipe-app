@@ -1,3 +1,7 @@
+# Screenshot:
+![delicious](https://github.com/Azamat002/recipe-app/assets/80198432/926a2cf5-67e4-4c63-bb43-74aafe563fa1)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
